@@ -1,4 +1,5 @@
-# Yearn Vaults Subgraph
+# Da-Fi Entropy v1 Subgraph 
+# Hat-tip Yearn.Finance
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Build](https://github.com/iearn-finance/yearn-subgraph/workflows/Build/badge.svg)
