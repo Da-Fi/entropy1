@@ -1,13 +1,13 @@
 
-# Da-Fi Entropy Subgraph
+# Da-Fi Entropy1 Subgraph
 
-# Hat-tip Yearn.Finance
+
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Build](https://github.com/Da-Fi/entropy1/workflows/Build/badge.svg)
 ![Lint](https://github.com/Da-Fi/entropy1/workflows/Lint/badge.svg)
 
-Subgraph to track yearn vaults metrics on Mainnet.
+Subgraph to track vaults metrics on Mainnet. 
 
 ## Setup
 
