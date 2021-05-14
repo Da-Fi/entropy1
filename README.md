@@ -1,22 +1,11 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-
-# Da-Fi Entropy v1 Subgraph
-
-=======
 
 # Da-Fi Entropy Subgraph
 
-> > > > > > > Stashed changes
-
-=======
-# Da-Fi Entropy Subgraph
->>>>>>> Stashed changes
 # Hat-tip Yearn.Finance
 
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Build](https://github.com/iearn-finance/yearn-subgraph/workflows/Build/badge.svg)
-![Lint](https://github.com/iearn-finance/yearn-subgraph/workflows/Lint/badge.svg)
+![Build](https://github.com/Da-Fi/entropy1/workflows/Build/badge.svg)
+![Lint](https://github.com/Da-Fi/entropy1/workflows/Lint/badge.svg)
 
 Subgraph to track yearn vaults metrics on Mainnet.
 
