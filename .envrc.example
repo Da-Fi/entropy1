@@ -1,2 +1,3 @@
-export GRAPH_PATH="iearn-finance/yearn-finance-dev"
+export GRAPH_PATH=export GRAPH_PATH="da-fi/entropy1"
 export ACCESS_TOKEN=""
+

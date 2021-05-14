@@ -1,5 +1,5 @@
 {
-  "name": "yearn-subgraph",
+  "name": "da-fi-entropy1",
   "license": "MIT",
   "scripts": {
     "codegen": "graph codegen",
